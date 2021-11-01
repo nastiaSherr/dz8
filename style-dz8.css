@@ -1,0 +1,166 @@
+.text1 {
+    position: absolute;
+    height: 35px;
+    width: 113px;
+    left: 903px;
+    top: 684px;
+    border-radius: 0px;
+    font-family: Kaushan Script;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #333333;
+}
+
+.text2 {
+    position: absolute;
+    height: 37px;
+    width: 232px;
+    left: 844px;
+    top: 736px;
+    border-radius: 0px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #333333;
+}
+
+.text3 {
+    position: absolute;
+    height: 47px;
+    width: 1104px;
+    left: 408px;
+    top: 858px;
+    border-radius: 0px;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(182, 182, 182, 1);
+}
+
+.first-man {
+    position: absolute;
+    width: 380px;
+    height: 470px;
+    left: 360px;
+    top: 932px;
+    background: url(thinking_man.png) no-repeat;
+}
+
+.second-man {
+    position: absolute;
+    width: 380px;
+    height: 470px;
+    left: 770px;
+    top: 932px;
+    background: url(dz8.png) no-repeat;
+}
+
+.third-man {
+    position: absolute;
+    width: 380px;
+    height: 470px;
+    left: 1180px;
+    top: 932px;
+    background: url(Man-PNG-.png) no-repeat;
+}
+
+.text4 {
+    position: absolute;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.text5 {
+    position: absolute;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #B6B6B6;
+}
+
+.first-man-text-1 {
+    height: 18px;
+    width: 98px;
+    left: 501px;
+    top: 1460px;
+    border-radius: 0px;    
+}
+
+.first-man-text-2 {
+    height: 17px;
+    width: 89px;
+    left: 507px;
+    top: 1432px;
+    border-radius: 0px;
+}
+
+.second-man-text-1 {
+    height: 18px;
+    width: 129px;
+    left: 898px;
+    top: 1460px;
+    border-radius: 0px;
+}
+
+.second-man-text-2 {
+    height: 17px;
+    width: 161px;
+    left: 883px;
+    top: 1432px;
+    border-radius: 0px;
+}
+
+.third-man-text-1 {
+    height: 18px;
+    width: 64px;
+    left: 1338px;
+    top: 1459px;
+    border-radius: 0px;
+}
+
+.third-man-text-2 {
+    height: 17px;
+    width: 105px;
+    left: 1319px;
+    top: 1432px;
+    border-radius: 0px;  
+}
+
+.div {
+    position: absolute;
+    width: 60px;
+    height: 4px;
+    left: 930px;
+    top: 809px;
+    background: #F38181;
+}
+
+
+
+.frame1 {
+    position: relative;
+    width: 1920px;
+    height: 1618px;
+    background: #FFFFFF;
+}
